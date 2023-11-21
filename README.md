@@ -15,7 +15,7 @@ The dataset contains **9,026** questions and **870** dialogs. A more detailed st
 
 We have tested two clique of models:
 - Baseline Models: ParsBert & XML-Roberta are used.
-- Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before beinf finetuned.
+- Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before beinf finetuned. In the below table *X + Y* shows utilizing *Y* which is pre-trained on *X*.
 
 | Model                  | EM    | F1    | HEQ-Q | HEQ-M | HEQ-D |
 |------------------------|-------|-------|-------|-------|-------|
