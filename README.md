@@ -14,8 +14,8 @@ The dataset contains **9,026** questions and **870** dialogs. A more detailed st
 | unanswerable rate| 15.7  | 1.3    | 20.2   |
 
 We have tested two clique of models:
-- Baseline Models:
-- Pre-trained Models:
+- Baseline Models: ParsBert & XML-Roberta are used.
+- Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before beinf finetuned.
 
 | Model                  | EM    | F1    | HEQ-Q | HEQ-M | HEQ-D |
 |------------------------|-------|-------|-------|-------|-------|
