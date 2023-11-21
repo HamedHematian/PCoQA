@@ -1,5 +1,21 @@
 # PCoQA
-Persian Conversational Question Answering -- With Benchmarks
+PCoQA: Persian Conversational Question Answering Dataset
+The Paper is currently released on arXiv (). 
+The dataset contains **9,026** questions and **870** dialogs. A more detailed statistics of the dataset is presented in the below table. The statistics also demnstrate a comparison with English language datasets of QuAC and CoQA.
+
+|                  | PCoQA | CoQA   | QuAC   |
+|------------------|-------|--------|--------|
+| documents        | 870   | 8,399  | 11,568 |
+| questions        | 9,026 | 127,000| 86,568 |
+| tokens / document| 505.4 | 271.0  | 396.8  |
+| tokens / question| 7.0   | 5.5    | 6.5    |
+| tokens / answer  | 18.6  | 7.2    | 15.1   |
+| questions / dialog| 10.4 | 15.2   | 7.2    |
+| unanswerable rate| 15.7  | 1.3    | 20.2   |
+
+We have tested two clique of models:
+- Baseline Models:
+- Pre-trained Models:
 
 | Model                  | EM    | F1    | HEQ-Q | HEQ-M | HEQ-D |
 |------------------------|-------|-------|-------|-------|-------|
