@@ -6,7 +6,7 @@ The dataset contains **9,026** questions and **870** dialogs. A more detailed st
 
 ## Dataset
 
-![A sample dialog of the dataset]([Images/pcoqa_sample_b.png](Images/pcoqa_sample_b.png)
+![A sample dialog of the dataset](Images/pcoqa_sample_b.png)
 
 
 
