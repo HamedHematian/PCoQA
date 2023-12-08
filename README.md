@@ -5,10 +5,9 @@ The dataset contains **9,026** questions and **870** dialogs. A more detailed st
 
 
 ## Dataset
-
-![A sample dialog of the dataset](Images/pcoqa_sample_b.png)
-<img src="./Images/pcoqa_sample_b.png" alt="Your Image" width="400" style="max-width:50%;" />
-
+<p align="center">
+<img src="./Images/pcoqa_sample_b.png" alt="Your Image" width="400" style="max-width:60%;" />
+</p>
 
 
 
