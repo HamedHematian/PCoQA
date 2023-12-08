@@ -45,7 +45,7 @@ We have tested two clique of models:
 | QuAC + XLM-Roberta     | 32.81 | 51.66 | 43.10 | **3.27** | **1.63** |
 | ParSQuAD + XLM-Roberta | **35.93** | **53.75** | **46.21** | 1.63  | 0.8   |
 | Human                  | 85.50 | 86.97 | -     | -     | -     |
-</div>div>
+</div>
 In the below picure, the mean of F1 along different methods are shown.
 
 <p align="center">
