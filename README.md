@@ -1,6 +1,7 @@
 # PCoQA
 PCoQA: Persian Conversational Question Answering Dataset
-The Paper is currently released on arXiv [[Link]](https://arxiv.org/abs/2312.04362). 
+The Paper is currently released on arXiv [[Paper Link](https://arxiv.org/abs/2312.04362)]. 
+
 The dataset contains **9,026** questions and **870** dialogs. A more detailed statistics of the dataset is presented in the below table. 
 
 
@@ -42,6 +43,6 @@ We have tested two clique of models:
 In the below picure, the mean of F1 along different methods are shown.
 
 <p align="center">
-<img src="./Images/saved.pg" alt="Your Image" width="400" style="max-width:60%;" />
+<img src="./Images/saved.png" alt="F1 among different turns and models" width="400" style="max-width:60%;" />
 </p>
 
