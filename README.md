@@ -1,16 +1,7 @@
-# PCoQA
-PCoQA: Persian Conversational Question Answering Dataset
+# PCoQA: Persian Conversational Question Answering Dataset
 
 The dataset contains **9,026** questions and **870** dialogs. A more detailed statistics of the dataset is presented in the below table. The Paper is currently released on arXiv [[Paper Link](https://arxiv.org/abs/2312.04362)]. 
 
-
-
-# Navigation
-
-1. ## [Dataset Sample](#dataset-sample)
-2. ## [Statistics](#statistics)
-3. ## [Results](#results)
-4. ## [Code](#code)
 
 
 ## Dataset Sample
