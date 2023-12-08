@@ -7,10 +7,10 @@ The dataset contains **9,026** questions and **870** dialogs. A more detailed st
 
 # Navigation
 
-1. [Dataset Sample](##dataset-sample)
-2. [Statistics](##statistics)
-3. [Results](##results)
-4. [Code](##code)
+1. [Dataset Sample](#dataset-sample)
+2. [Statistics](#statistics)
+3. [Results](#results)
+4. [Code](#code)
 
 
 # Dataset Sample
