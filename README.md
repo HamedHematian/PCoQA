@@ -36,7 +36,9 @@ The statistics also demnstrate a comparison with English language datasets of Qu
 We have tested two clique of models:
 - Baseline Models: ParsBert & XML-Roberta are used.
 - Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before being finetuned. In the below table *X + Y* shows utilizing *Y* which is pre-trained on *X*.
+
 <div align="center">
+  
 | Model                  | EM    | F1    | HEQ-Q | HEQ-M | HEQ-D |
 |------------------------|-------|-------|-------|-------|-------|
 | ParsBERT               | 21.82 | 37.06 | 30.70 | 0.0   | 0.0   |
@@ -45,7 +47,9 @@ We have tested two clique of models:
 | QuAC + XLM-Roberta     | 32.81 | 51.66 | 43.10 | **3.27** | **1.63** |
 | ParSQuAD + XLM-Roberta | **35.93** | **53.75** | **46.21** | 1.63  | 0.8   |
 | Human                  | 85.50 | 86.97 | -     | -     | -     |
+
 </div>
+
 In the below picure, the mean of F1 along different methods are shown.
 
 <p align="center">
