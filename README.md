@@ -39,3 +39,9 @@ We have tested two clique of models:
 | ParSQuAD + XLM-Roberta | **35.93** | **53.75** | **46.21** | 1.63  | 0.8   |
 | Human                  | 85.50 | 86.97 | -     | -     | -     |
 
+In the below picure, the mean of F1 along different methods are shown.
+
+<p align="center">
+<img src="./Images/daved.pg" alt="Your Image" width="400" style="max-width:60%;" />
+</p>
+
