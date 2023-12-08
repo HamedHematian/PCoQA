@@ -13,14 +13,14 @@ The dataset contains **9,026** questions and **870** dialogs. A more detailed st
 4. [Code](##code)
 
 
-## Dataset Sample
+# Dataset Sample
 <p align="center">
 <img src="./Images/pcoqa_sample_b.png" alt="Your Image" width="400" style="max-width:60%;" />
 </p>
 
 
 
-## Statistics
+# Statistics
 The statistics also demnstrate a comparison with English language datasets of QuAC and CoQA.
 <div align="center">
 
@@ -37,7 +37,7 @@ The statistics also demnstrate a comparison with English language datasets of Qu
 </div>
 
 
-## Results
+# Results
 We have tested two clique of models:
 - Baseline Models: ParsBert & XML-Roberta are used.
 - Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before being finetuned. In the below table *X + Y* shows utilizing *Y* which is pre-trained on *X*.
@@ -61,6 +61,6 @@ In the below picure, the mean of F1 along different methods are shown.
 <img src="./Images/saved.png" alt="F1 among different turns and models" width="700" style="max-width:100%;" />
 </p>
 
-## Code
+# Code
 
 In the `Code` directory, `.ipynb` files are for pre-training the transformers, and `.py` files are for final fine-tuning. You can specify as the first argument which pre-trained dataset you want to utilize.
