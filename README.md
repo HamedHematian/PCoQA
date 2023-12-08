@@ -46,6 +46,6 @@ We have tested two clique of models:
 In the below picure, the mean of F1 along different methods are shown.
 
 <p align="center">
-<img src="./Images/saved.png" alt="F1 among different turns and models" width="400" style="max-width:100%;" />
+<img src="./Images/saved.png" alt="F1 among different turns and models" width="700" style="max-width:100%;" />
 </p>
 
