@@ -14,6 +14,7 @@ The dataset contains **9,026** questions and **870** dialogs. A more detailed st
 
 ## Statistics
 The statistics also demnstrate a comparison with English language datasets of QuAC and CoQA.
+<p align="center">
 
 |                  | PCoQA | CoQA   | QuAC   |
 |------------------|-------|--------|--------|
@@ -24,6 +25,8 @@ The statistics also demnstrate a comparison with English language datasets of Qu
 | tokens / answer  | 18.6  | 7.2    | 15.1   |
 | questions / dialog| 10.4 | 15.2   | 7.2    |
 | unanswerable rate| 15.7  | 1.3    | 20.2   |
+
+</p>
 
 
 ## Results
@@ -43,6 +46,6 @@ We have tested two clique of models:
 In the below picure, the mean of F1 along different methods are shown.
 
 <p align="center">
-<img src="./Images/saved.png" alt="F1 among different turns and models" width="400" style="max-width:60%;" />
+<img src="./Images/saved.png" alt="F1 among different turns and models" width="400" style="max-width:100%;" />
 </p>
 
