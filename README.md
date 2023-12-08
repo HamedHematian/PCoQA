@@ -14,7 +14,7 @@ The dataset contains **9,026** questions and **870** dialogs. A more detailed st
 
 ## Statistics
 The statistics also demnstrate a comparison with English language datasets of QuAC and CoQA.
-<p align="center">
+<div align="center">
 
 |                  | PCoQA | CoQA   | QuAC   |
 |------------------|-------|--------|--------|
@@ -26,7 +26,7 @@ The statistics also demnstrate a comparison with English language datasets of Qu
 | questions / dialog| 10.4 | 15.2   | 7.2    |
 | unanswerable rate| 15.7  | 1.3    | 20.2   |
 
-</p>
+</div>
 
 
 ## Results
