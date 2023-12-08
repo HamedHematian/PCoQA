@@ -32,7 +32,7 @@ The statistics also demnstrate a comparison with English language datasets of Qu
 ## Results
 We have tested two clique of models:
 - Baseline Models: ParsBert & XML-Roberta are used.
-- Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before beinf finetuned. In the below table *X/Y* shows utilizing *Y* which is pre-trained on *X*.
+- Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before being finetuned. In the below table *X + Y* shows utilizing *Y* which is pre-trained on *X*.
 
 | Model                  | EM    | F1    | HEQ-Q | HEQ-M | HEQ-D |
 |------------------------|-------|-------|-------|-------|-------|
