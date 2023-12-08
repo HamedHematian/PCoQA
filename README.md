@@ -1,6 +1,6 @@
 # PCoQA
 PCoQA: Persian Conversational Question Answering Dataset
-The Paper is currently released on arXiv (). 
+The Paper is currently released on arXiv [[Link]](https://arxiv.org/abs/2312.04362). 
 The dataset contains **9,026** questions and **870** dialogs. A more detailed statistics of the dataset is presented in the below table. 
 
 
@@ -28,7 +28,7 @@ The statistics also demnstrate a comparison with English language datasets of Qu
 ## Results
 We have tested two clique of models:
 - Baseline Models: ParsBert & XML-Roberta are used.
-- Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before beinf finetuned. In the below table *X + Y* shows utilizing *Y* which is pre-trained on *X*.
+- Pre-trained Models: Baseline models are pre-trained on PaeSQuAD and QuAC before beinf finetuned. In the below table *X/Y* shows utilizing *Y* which is pre-trained on *X*.
 
 | Model                  | EM    | F1    | HEQ-Q | HEQ-M | HEQ-D |
 |------------------------|-------|-------|-------|-------|-------|
@@ -42,6 +42,6 @@ We have tested two clique of models:
 In the below picure, the mean of F1 along different methods are shown.
 
 <p align="center">
-<img src="./Images/daved.pg" alt="Your Image" width="400" style="max-width:60%;" />
+<img src="./Images/saved.pg" alt="Your Image" width="400" style="max-width:60%;" />
 </p>
 
