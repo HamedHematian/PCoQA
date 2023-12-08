@@ -57,3 +57,5 @@ In the below picure, the mean of F1 along different methods are shown.
 </p>
 
 ## Code
+
+In the `Code` directory, `.ipynb` files are for pre-training the transformers, and `.py` files are for final fine-tuning. You can specify as the first argument which pre-trained dataset you want to utilize.
