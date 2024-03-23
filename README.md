@@ -19,9 +19,6 @@ The statistics also demnstrate a comparison with English language datasets of Qu
 |------------------|-------|--------|--------|
 | documents        | 870   | 8,399  | 11,568 |
 | questions        | 9,026 | 127,000| 86,568 |
-| tokens / document| 505.4 | 271.0  | 396.8  |
-| tokens / question| 7.0   | 5.5    | 6.5    |
-| tokens / answer  | 18.6  | 7.2    | 15.1   |
 | questions / dialog| 10.4 | 15.2   | 7.2    |
 | unanswerable rate| 15.7  | 1.3    | 20.2   |
 
@@ -54,4 +51,6 @@ In the below picure, the mean of F1 along different methods are shown.
 
 ## Code
 
-In the `Code` directory, `.ipynb` files are for pre-training the transformers, and `.py` files are for final fine-tuning. You can specify as the first argument which pre-trained dataset you want to utilize.
+In the `Code` directory, `.ipynb` files are for pre-training the transformers. run `run_PCoQA.py` file according to your desired settings to obtain the results. You can run it like:
+```python run_PCoQA.py --model parsbert --pretrained_dataset none --hist_num 2 --do_test
+```
