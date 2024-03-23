@@ -52,5 +52,6 @@ In the below picure, the mean of F1 along different methods are shown.
 ## Code
 
 In the `Code` directory, `.ipynb` files are for pre-training the transformers. run `run_PCoQA.py` file according to your desired settings to obtain the results. You can run it like:
-```python run_PCoQA.py --model parsbert --pretrained_dataset none --hist_num 2 --do_test
+```shell
+python run_PCoQA.py --model parsbert --pretrained_dataset none --hist_num 2 --do_test
 ```
