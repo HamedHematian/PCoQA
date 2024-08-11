@@ -1,5 +1,7 @@
 # PCoQA: Persian Conversational Question Answering Dataset
 
+### This is the repository for the data and code of the first Persian conversational question answering dataset
+
 The dataset contains **9,026** questions and **870** dialogs. A more detailed statistics of the dataset is presented in the below table. The Paper is currently released on arXiv [[Paper Link](https://arxiv.org/abs/2312.04362)]. 
 
 
